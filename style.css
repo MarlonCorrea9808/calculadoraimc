@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+
+table{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    margin-top: 5em;
+}
+
